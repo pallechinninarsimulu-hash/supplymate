@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" fill="none">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="640" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E4F1E9"/>
+      <stop offset="1" stop-color="#F6E8D4"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="244" y1="192" x2="361" y2="342" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#25987D"/>
+      <stop offset="1" stop-color="#176D68"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#wall)" d="M0 0h640v400H0z"/>
+  <circle cx="520" cy="82" r="102" fill="#F5D79D" opacity=".48"/>
+  <path fill="#C4DED0" d="M60 54h176v139H60z"/>
+  <path fill="#F8F5E9" d="M73 67h150v113H73z"/>
+  <path fill="#DCECE3" d="M146 67h8v113h-8zM73 119h150v7H73z"/>
+  <path fill="#A2C8B4" d="M84 180c5-31 20-46 44-46s39 15 44 46H84Z"/>
+  <path fill="#77AA8E" d="M105 180c4-20 12-31 23-31s20 11 23 31h-46Z"/>
+  <path fill="#F9F6EC" d="M412 90h168v108H412z"/>
+  <path stroke="#D8DDD2" stroke-width="5" d="M412 125h168M412 160h168"/>
+  <path fill="#CF9362" d="M397 209h153v16H397z"/>
+  <path fill="#B9764E" d="M410 225h12v77h-12zM526 225h12v77h-12z"/>
+  <path fill="#E2AD73" d="M103 283h434v23H103z"/>
+  <path fill="#BF8255" d="M123 306h17v73h-17zM500 306h17v73h-17z"/>
+  <path fill="#F7F4E9" d="M288 245h154v37H288z"/>
+  <path fill="#D7E8DE" d="M299 253h132v21H299z"/>
+  <path stroke="#78A995" stroke-width="4" stroke-linecap="round" d="M313 262h54m-54 7h83"/>
+  <path fill="#E7BA79" d="M253 273c0-48 28-82 69-82 42 0 69 34 69 82v17H253v-17Z"/>
+  <path fill="#263A4A" d="M258 229c9-30 31-47 64-47 31 0 53 17 64 47-16-9-34-13-54-13-30 0-53 7-74 13Z"/>
+  <path fill="#DDAA79" d="M273 236c0-28 18-48 46-48s46 20 46 48v26c0 30-20 50-46 50s-46-20-46-50v-26Z"/>
+  <path fill="#263A4A" d="M269 241c21-11 47-16 78-13l18 10v-13c-2-27-20-45-47-45-29 0-48 21-49 52v9Z"/>
+  <path stroke="#754C3B" stroke-linecap="round" stroke-width="3" d="M295 247h2m41 0h2"/>
+  <path stroke="#A76250" stroke-linecap="round" stroke-width="3" d="M313 273c4 4 9 4 13 0"/>
+  <path fill="url(#shirt)" d="M239 340c5-39 24-62 57-70l23 17 23-17c34 8 53 31 59 70v18H239v-18Z"/>
+  <path fill="#DDAA79" d="m296 270 23 20 23-20-13-12h-20l-13 12Z"/>
+  <path fill="#F8F5E9" d="M198 287h111v13H198z"/>
+  <path fill="#D6E4D9" d="M206 300h94v8h-94z"/>
+  <path fill="#F8F5E9" d="M176 308h135v11H176z"/>
+  <path fill="#D7E8DE" d="M184 319h117v7H184z"/>
+  <path fill="#F4DDAE" d="M69 258h30v25H69z"/>
+  <path fill="#E99C69" d="M76 245h16v13H76z"/>
+  <path fill="#67A88B" d="M78 237c-12-10-12-21-1-31 10 11 10 21 1 31Zm9-2c-5-15 0-26 15-32 1 15-4 26-15 32Z"/>
+</svg>
